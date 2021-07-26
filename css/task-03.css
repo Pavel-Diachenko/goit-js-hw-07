@@ -1,0 +1,12 @@
+
+.gallary__list-img {
+list-style: none;
+display: flex;
+justify-content: center;
+margin-bottom: 10px;
+}
+.gallary__img {
+  
+  width: 320px;
+ 
+}
